@@ -3,6 +3,3 @@
 
 Build command: npm install
 Start command: npm start
-
-Routes:
-- `GET /earth`
